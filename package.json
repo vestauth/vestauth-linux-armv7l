@@ -1,6 +1,6 @@
 {
   "name": "@vestauth/vestauth-linux-armv7l",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "description": "vestauth-linux-armv7l binary",
   "repository": {
     "type": "git",
